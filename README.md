@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](<img src="blob:chrome-untrusted://media-app/d23410d4-54b1-4a63-b7c1-c507cca80993" alt="i.png"/>![image](https://github.com/LuisFe07/LuisFe07/assets/172048276/9eaa5f51-411a-4e82-87ce-db0c6f3088d7)
-)
+
+
+. estudo em Campinas
+
+. estou desenvolvendo um programa
